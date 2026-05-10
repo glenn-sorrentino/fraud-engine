@@ -64,16 +64,15 @@ FCA relator counsel, forensic investigators, investigative research firms, and s
 
 ## Issues
 
-- [Issue 001: Define Aerospace Scope Taxonomy](issues/001-define-aerospace-scope-taxonomy.md)
-- [Issue 002: Build Public Procurement Data Ingestion](issues/002-build-public-procurement-data-ingestion.md)
-- [Issue 003: Build SAM.gov Entity and Exclusion Enrichment](issues/003-build-sam-entity-exclusion-enrichment.md)
-- [Issue 004: Implement Entity Resolution Pipeline](issues/004-implement-entity-resolution-pipeline.md)
-- [Issue 005: Create Enforcement Case Taxonomy](issues/005-create-enforcement-case-taxonomy.md)
-- [Issue 006: Implement Defective Pricing Signal Family](issues/006-implement-defective-pricing-signals.md)
-- [Issue 007: Implement Nonconforming Parts Signal Family](issues/007-implement-nonconforming-parts-signals.md)
-- [Issue 008: Implement Cybersecurity False-Certification Signal Family](issues/008-implement-cybersecurity-false-certification-signals.md)
-- [Issue 009: Build Evidence Packet Generator](issues/009-build-evidence-packet-generator.md)
-- [Issue 010: Build Analyst Lead Review Workflow](issues/010-build-analyst-lead-review-workflow.md)
-- [Issue 011: Create Backtesting and Evaluation Harness](issues/011-create-backtesting-evaluation-harness.md)
-- [Issue 012: Run Expert Pilot and Go/No-Go Review](issues/012-run-expert-pilot-go-no-go-review.md)
-
+- #2: [Issue 001: Define Aerospace Scope Taxonomy](issues/001-define-aerospace-scope-taxonomy.md)
+- #3: [Issue 002: Build Public Procurement Data Ingestion](issues/002-build-public-procurement-data-ingestion.md)
+- #4: [Issue 003: Build SAM.gov Entity and Exclusion Enrichment](issues/003-build-sam-entity-exclusion-enrichment.md)
+- #5: [Issue 004: Implement Entity Resolution Pipeline](issues/004-implement-entity-resolution-pipeline.md)
+- #6: [Issue 005: Create Enforcement Case Taxonomy](issues/005-create-enforcement-case-taxonomy.md)
+- #7: [Issue 006: Implement Defective Pricing Signal Family](issues/006-implement-defective-pricing-signals.md)
+- #8: [Issue 007: Implement Nonconforming Parts Signal Family](issues/007-implement-nonconforming-parts-signals.md)
+- #9: [Issue 008: Implement Cybersecurity False-Certification Signal Family](issues/008-implement-cybersecurity-false-certification-signals.md)
+- #10: [Issue 009: Build Evidence Packet Generator](issues/009-build-evidence-packet-generator.md)
+- #11: [Issue 010: Build Analyst Lead Review Workflow](issues/010-build-analyst-lead-review-workflow.md)
+- #12: [Issue 011: Create Backtesting and Evaluation Harness](issues/011-create-backtesting-evaluation-harness.md)
+- #13: [Issue 012: Run Expert Pilot and Go/No-Go Review](issues/012-run-expert-pilot-go-no-go-review.md)

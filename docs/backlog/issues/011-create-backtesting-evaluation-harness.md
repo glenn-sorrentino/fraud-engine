@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `testing`, `analytics`, `priority:high`
 
+Parent Epic: #1
+
 ## User Story
 
 As a product team, we need to test whether the signal engine can rediscover known cases and separate useful leads from noise.
@@ -28,4 +30,3 @@ Create an evaluation harness using known enforcement examples and comparable non
 ## Notes
 
 Do not optimize only for known cases. The evaluation should also reveal noisy rules before pilot users see them.
-

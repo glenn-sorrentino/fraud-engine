@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `signals`, `analytics`, `priority:high`
 
+Parent Epic: #1
+
 ## User Story
 
 As an analyst, I need signals that identify contracts where pricing patterns may warrant defective-pricing diligence.
@@ -28,4 +30,3 @@ Implement explainable rules and baselines for sole-source, low-competition, high
 ## Notes
 
 This signal must not imply overpricing by itself. It should identify matters that deserve pricing-data diligence.
-

@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `research`, `taxonomy`, `priority:medium`
 
+Parent Epic: #1
+
 ## User Story
 
 As a product team, we need known FCA enforcement examples classified by fraud theory so that MVP signals can be backtested against real matters.
@@ -25,4 +27,3 @@ Create a structured taxonomy of aerospace and defense FCA enforcement examples f
 ## Notes
 
 Initial seed examples should include defective pricing, improper markups, nonconforming parts, falsified testing, and cybersecurity misrepresentation.
-

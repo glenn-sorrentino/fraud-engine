@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `data-ingestion`, `entity`, `priority:high`
 
+Parent Epic: #1
+
 ## User Story
 
 As an analyst, I need recipient entities enriched with public SAM.gov data so that leads include registration, hierarchy, and exclusion context.
@@ -25,4 +27,3 @@ Use SAM.gov public entity and exclusion data to enrich recipients from procureme
 ## Notes
 
 Avoid using restricted SAM.gov data. Public-data-only operation is a product requirement.
-

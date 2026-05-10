@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `workflow`, `reporting`, `priority:high`
 
+Parent Epic: #1
+
 ## User Story
 
 As an analyst, I need exportable evidence packets so that leads can be reviewed by counsel or investigators without manually assembling source material.
@@ -27,4 +29,3 @@ Generate markdown and PDF-ready diligence packets for each high-priority lead.
 ## Notes
 
 This is the MVP's core deliverable. Treat source provenance as a hard requirement.
-

@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `frontend`, `workflow`, `priority:medium`
 
+Parent Epic: #1
+
 ## User Story
 
 As an analyst, I need a simple workflow to review, disposition, annotate, and export leads.
@@ -29,4 +31,3 @@ Build a minimal analyst UI or structured notebook workflow for lead review.
 ## Notes
 
 For MVP, a simple internal tool is enough. Prioritize review speed and provenance over polish.
-

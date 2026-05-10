@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `signals`, `cybersecurity`, `priority:high`
 
+Parent Epic: #1
+
 ## User Story
 
 As an analyst, I need signals that identify aerospace contractors whose contracts likely involve cybersecurity obligations and public indicators of potential compliance risk.
@@ -29,4 +31,3 @@ Implement signals for CUI-heavy contract exposure, defense agency/program work, 
 ## Notes
 
 Be conservative. Public data often indicates exposure, not noncompliance.
-

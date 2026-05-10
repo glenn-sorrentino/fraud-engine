@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `pilot`, `customer-discovery`, `priority:high`
 
+Parent Epic: #1
+
 ## User Story
 
 As a product team, we need expert review from real users to decide whether the MVP is worth continuing.
@@ -27,4 +29,3 @@ Run a limited pilot with FCA counsel, procurement fraud investigators, or aerosp
 ## Notes
 
 Pilot users should understand that outputs are investigative hypotheses, not fraud determinations or legal advice.
-

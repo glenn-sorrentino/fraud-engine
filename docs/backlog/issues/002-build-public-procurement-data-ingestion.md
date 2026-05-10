@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `data-ingestion`, `priority:high`
 
+Parent Epic: #1
+
 ## User Story
 
 As an analyst, I need federal award and transaction data loaded into a normalized store so that signal calculations can be reproduced and audited.
@@ -25,4 +27,3 @@ Ingest public award and transaction data from USAspending for the aerospace scop
 ## Notes
 
 Prefer structured APIs over scraping. The MVP does not need every field, but it must preserve enough provenance to defend calculations.
-

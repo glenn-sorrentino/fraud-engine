@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `signals`, `analytics`, `priority:high`
 
+Parent Epic: #1
+
 ## User Story
 
 As an analyst, I need signals that identify aerospace suppliers where parts, testing, inspection, or certification risk deserves deeper review.
@@ -29,4 +31,3 @@ Implement signals for high-criticality parts suppliers, broker/reseller indicato
 ## Notes
 
 Because many quality facts are non-public, this signal should be framed as a supply-chain diligence trigger.
-

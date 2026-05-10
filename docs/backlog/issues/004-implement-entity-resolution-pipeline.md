@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `entity-resolution`, `priority:high`
 
+Parent Epic: #1
+
 ## User Story
 
 As an analyst, I need awards, entities, aliases, and parent relationships resolved consistently so that signals are not fragmented across name variations.
@@ -26,4 +28,3 @@ Implement deterministic and fuzzy matching across UEI, CAGE, recipient name, leg
 ## Notes
 
 False merges are more dangerous than missed merges. Bias toward review for ambiguous matches.
-

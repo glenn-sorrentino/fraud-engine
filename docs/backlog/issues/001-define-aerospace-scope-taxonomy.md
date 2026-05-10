@@ -2,6 +2,8 @@
 
 Labels: `mvp`, `data`, `taxonomy`, `priority:high`
 
+Parent Epic: #1
+
 ## User Story
 
 As an analyst, I need a defensible aerospace scope definition so that MVP signals focus on federal aerospace procurement rather than generic government spending.
@@ -25,4 +27,3 @@ Create a taxonomy that identifies aerospace-relevant awards using agencies, suba
 ## Notes
 
 This taxonomy is the control surface for the whole MVP. Keep it conservative and document why each inclusion rule exists.
-
